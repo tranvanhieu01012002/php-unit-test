@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\ExampleTest::testTrueIsTrue":3,"Tests\\ExampleTest::testPush":3},"times":{"Tests\\ExampleTest::testTrueIsTrue":0.001,"Tests\\ExampleTest::testEmpty":0,"Tests\\ExampleTest::testPush":0,"Tests\\ExampleTest::testPop":0}}
